@@ -1,0 +1,63 @@
+
+<body>
+
+  <div class="header">
+    
+    <h1>Welcome to Job Portal</h1>
+    <p id="fi">Find your dream job</p>
+    <img src="http://www.emsaac.org/images/stories/Jobs2.jpg" alt="Logo"> 
+  </div>
+<input id="se" type="text" placeholder="Search By JobRole..." [(ngModel)]="jobrole" (ngModelChange)="search()">
+<input id="seas"  [(ngModel)]="joblocation" type="text" (ngModelChange)="searchh()"
+            placeholder="Search By Location...">
+    <!-- <mat-form-field appearance="fill" id="se">
+        <input matInput  required minlength="3" [(ngModel)]="jobrole" type="text" (ngModelChange)="search()"
+        #titles="ngModel" placeholder="Search By Jobrole">
+        </mat-form-field> -->
+<div class="job-card-container">
+    <mat-card *ngFor="let job of joblisting" class="job-card">
+      <mat-card-header>
+        <div mat-card-avatar class="example-header-image"></div>
+        <mat-card-subtitle>{{ job.companyname }}</mat-card-subtitle>
+        <mat-card-subtitle id="role">{{ job.jobrole }}</mat-card-subtitle>
+    
+     
+      </mat-card-header>
+      <mat-card-content>
+        <p id="move">{{ job.joblocation }}</p>
+        <p id="move">{{ job.postedtime }}</p>
+        <p id="move">{{ job.jobtype }}</p>
+        <p id="key">{{ job.keyskills }}</p>
+        <footer>{{job.salary}}</footer>
+      </mat-card-content>
+      <mat-card-actions>
+        <button mat-raised-button color="primary" (click)="apply()">ApplyNow</button>
+       
+      </mat-card-actions>
+  
+    </mat-card>
+    <footer class="footer">
+      <div class="footer-content">
+        <div class="footer-logo">
+          <!-- Your logo or any other content for the footer logo goes here -->
+          <!-- <img src="path-to-your-footer-logo.png" alt="Footer Logo"> -->
+        </div>
+        <div class="footer-links">
+          <a href="#">Home</a>
+          <a href="#">About Us</a>
+          <a href="#">Services</a>
+          <a href="#">Contact</a>
+        </div>
+        <div class="footer-social">
+       
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; 2023 Your Company. All rights reserved.</p>
+      </div>
+    </footer>
+  </div>
+
+  
+  
+</body>

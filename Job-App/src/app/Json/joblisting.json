@@ -1,0 +1,148 @@
+{
+  "joblisting": [
+    {
+      "companyname": "Jacato",
+      "jobrole": "FullStackDeveloper",
+      "postedtime": "2d ago",
+      "jobtype": "FullTime",
+      "joblocation": "Bangalore",
+      "salary": "5CTC",
+      "keyskills": "Angular,Springboot,Html,Css,Javascript,Mysql,MongoDB"
+    },
+    {
+      "companyname": "MyCompany",
+      "jobrole": "AngularDeveloper",
+      "postedtime": "2w ago",
+      "jobtype": "Hybrid",
+      "joblocation": "Hyderabad",
+      "salary": "4.5CTC",
+      "keyskills": "Angular,Html,Css,Javascript,Bootstrap"
+    },
+    {
+      "companyname": "Cyber",
+      "jobrole": "Frontend Developer",
+      "postedtime": "1d ago",
+      "jobtype": "FullTime",
+      "joblocation": "mumbai",
+      "salary": "5.5CTC",
+      "keyskills": "AngularJs,Html,Javascript,Css"
+    },
+    {
+      "companyname": "IIHT",
+      "jobrole": "Backend Developer",
+      "postedtime": "2d ago",
+      "jobtype": "FullTime",
+      "joblocation": "Chennai",
+      "salary": "5.5CTC",
+      "keyskills": "Springboot,Spring,Mysql,MongoDB"
+    },
+    {
+      "companyname": "TechAcadamey",
+      "jobrole": "Javascript Developer",
+      "postedtime": "2Hours ago",
+      "jobtype": "FullTime",
+      "joblocation": "Hyderabad",
+      "salary": "5CTC",
+      "keyskills": "Javascript,Html,Css,Bootstrap"
+    },
+    {
+      "companyname": "primitiveTech",
+      "jobrole": "Backend Developer",
+      "postedtime": "2w ago",
+      "jobtype": "Contract",
+      "joblocation": "Hyderabad",
+      "salary": "6CTC",
+      "keyskills": "Springboot,Mysql,MongoDB,Spring,Java"
+    },
+    {
+      "companyname": "NANO tech",
+      "jobrole": "Frontend Developer",
+      "postedtime": "1w ago",
+      "jobtype": "Onsite",
+      "joblocation": "mumbai",
+      "salary": "4.5CTC",
+      "keyskills": "AngularJs,Html,Javascript,Css"
+    },
+    {
+      "companyname": "Optimire",
+      "jobrole": "REACT Developer",
+      "postedtime": "6d ago",
+      "jobtype": "FullTime",
+      "joblocation": "Chennai",
+      "salary": "6.5CTC",
+      "keyskills": "ReactJs,Html,Css,Js"
+    },
+    {
+      "companyname": "Sectigo",
+      "jobrole": "UI Developer",
+      "postedtime": "13h ago",
+      "jobtype": "FullTime",
+      "joblocation": "Hyderabad",
+      "salary": "5CTC",
+      "keyskills": "HTML,CSS,TYPESCRIPT"
+    },
+    {
+      "companyname": "iNETFrame",
+      "jobrole": "Junior Developer",
+      "postedtime": "2w ago",
+      "jobtype": "Hybrid",
+      "joblocation": "Bangalore",
+      "salary": "4.5CTC",
+      "keyskills": "Angular,Html,Css,Javascript,Bootstrap"
+    },
+    {
+      "companyname": "EnterPrise",
+      "jobrole": "Frontend Developer",
+      "postedtime": "1d ago",
+      "jobtype": "FullTime",
+      "joblocation": "Chennai",
+      "salary": "5.5CTC",
+      "keyskills": "AngularJs,Html,Javascript,Css"
+    },
+    {
+      "companyname": "Mercom",
+      "jobrole": "Backend Developer",
+      "postedtime": "2d ago",
+      "jobtype": "FullTime",
+      "joblocation": "Delhi",
+      "salary": "6CTC",
+      "keyskills": "Springboot,Spring,Mysql,MongoDB"
+    },
+    {
+      "companyname": "KASH Tech",
+      "jobrole": "Javascript Developer",
+      "postedtime": "2Hours ago",
+      "jobtype": "FullTime",
+      "joblocation": "Bangalore",
+      "salary": "5CTC",
+      "keyskills": "Javascript,Html,Css,Bootstrap"
+    },
+    {
+      "companyname": "Kibo",
+      "jobrole": "Backend Developer",
+      "postedtime": "2d ago",
+      "jobtype": "Contract",
+      "joblocation": "Chennai",
+      "salary": "6CTC",
+      "keyskills": "Springboot,Mysql,MongoDB,Spring,Java"
+    },
+    {
+      "companyname": "Yexponent",
+      "jobrole": "Frontend Developer",
+      "postedtime": "1h ago",
+      "jobtype": "Contract",
+      "joblocation": "Hyderabad",
+      "salary": "5CTC",
+      "keyskills": "AngularJs,Html,Javascript,Css"
+    },
+    {
+      "companyname": "Optimire",
+      "jobrole": "FRONT Developer",
+      "postedtime": "3d ago",
+      "jobtype": "PartTime",
+      "joblocation": "Delhi",
+      "salary": "5CTC",
+      "keyskills": "Angular,Html,Css,Javascript,Bootstrap"
+    }
+  ]
+}

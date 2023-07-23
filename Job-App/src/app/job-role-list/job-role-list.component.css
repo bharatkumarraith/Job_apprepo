@@ -1,0 +1,186 @@
+
+
+.job-card-container {
+   margin-left: 250px;
+   position: relative;
+   top: 60px;
+   padding: 10px;
+   padding-bottom: 10px;
+
+  } 
+  
+  .job-card {
+    width: 800px;
+    height: 130px;
+   
+    
+  }
+
+  /* app.component.css */
+  p{
+    display: inline;
+    margin-left: 30px;
+  }
+
+  #key{
+    float: right;
+    position: relative;
+    top: -40px;
+    background-color:rgb(212, 212, 83);
+    padding: 5px;
+    border-radius: 10px;
+  }
+  
+
+  button{
+    margin-left: 700px;
+    margin-top: -57px;
+  }
+
+  #move{
+position: relative;
+bottom: -30px;
+background-color: rgb(235, 134, 151);
+padding: 8px;
+border-radius: 10px;
+font-weight: bold;
+  }
+
+  #role{
+    color: black;
+    font-weight: bold;
+    position: relative;
+    bottom: -15px;
+  }
+
+
+  .example-header-image {
+    background-image: url('https://tse4.mm.bing.net/th?id=OIP.8OMFA9whxc7CqD12FW9D9QHaFj&pid=Api&P=0&h=180');
+    background-size: cover;
+  }
+
+  mat-card{
+    margin: 19px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color:#ADD8E6;
+  }
+
+
+  body, html {
+    height: 350vh; /* Set the height to cover the whole viewport */
+    margin: 0;
+    padding: 0;
+    /* background-color: #5d809b; */
+    background-image: url("https://img.freepik.com/free-photo/abstract-grunge-decorative-relief-navy-blue-stucco-wall-texture-wide-angle-rough-colored-background_1258-28311.jpg?w=1380&t=st=1689873623~exp=1689874223~hmac=aea109786b0cb91a8ad0139100fe43ce2b34e55bb1d48d002a6afcc398f5b661");
+    /* background-size: cover; 
+    background-position: center;  */
+  }
+
+  #se{
+    position: relative;
+    bottom: -30px;
+    left: 300px;
+    height: 20px;
+  }
+
+  #seas{
+    position: relative;
+    left:630px;
+    top:25px;
+    height: 20px;
+  }
+
+  footer{
+    position: relative;
+    left:430px;
+    
+     bottom: -10px;
+     font-weight: bold;
+
+  }
+
+
+  .header {
+    background-color: lightblue;
+ 
+    text-align: center;
+  }
+  
+  .header h1 {
+    font-size: 26px;
+    margin-bottom: 10px;
+  }
+  
+  .header p {
+    font-size: 18px;
+    color: #444;
+  }
+
+  .header img {
+    max-width: 60px;
+     position: relative;
+     left:-790px;
+     top: -20px;
+     border-radius: 100%;
+  }
+
+  #fi{
+    position: relative;
+    top: -20px;
+  }
+  /* CSS for the footer */
+.footer {
+  background-color: lightblue;
+  color: black;
+  padding: 15px 0;
+  position: relative;
+  left: -260px;
+  top:-3px;
+  width: 1600px;
+}
+
+.footer-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-logo {
+  flex: 1;
+  text-align: center;
+  /* Optional: Add some padding if needed */
+  /* padding: 0 20px; */
+}
+
+.footer-links {
+  flex: 1;
+  text-align: center;
+}
+
+.footer-links a {
+  color: black;
+  text-decoration: none;
+  margin: 0 10px;
+  /* Optional: Add some hover effects */
+  /* transition: color 0.3s; */
+}
+
+.footer-links a:hover {
+  color: black
+}
+
+.footer-social {
+  flex: 1;
+  text-align: center;
+}
+
+
+.footer-bottom {
+  text-align: center;
+  padding-top: 10px;
+  /* Optional: Add a border-top for separation */
+  /* border-top: 1px solid #ddd; */
+}
+
+
